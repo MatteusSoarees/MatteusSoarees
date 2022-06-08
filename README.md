@@ -10,10 +10,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteusSoarees&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatteusSoarees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-  
-![Snake animation](https://github.com/MatteusSoarees/MatteusSoarees/blob/output/github-contribution-grid-snake.svg)
-  
   
  <i><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -31,3 +27,9 @@
  <img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
  <img height="20" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
  <img height="20" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
+
+
+  
+![Snake animation](https://github.com/MatteusSoarees/MatteusSoarees/blob/output/github-contribution-grid-snake.svg)
+  
+ 
